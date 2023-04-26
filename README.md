@@ -16,7 +16,6 @@ Code, coffee, repeat. ☕️💻🔁<br>I'm not saying I'm Batman, but have you 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheDelali&icon=0&color=0)](https://visitcount.itsvg.in)
